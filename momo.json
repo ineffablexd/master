@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "title": "Learn Flutter in 1 Hour",
+      "url": "https://www.youtube.com/watch?v=VPvVD8t02U8"
+    },
+    {
+      "title": "Python Full Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+    },
+    {
+      "title": "JavaScript Crash Course",
+      "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c"
+    },
+    {
+      "title": "Data Structures Explained",
+      "url": "https://www.youtube.com/watch?v=bum_19loj9A"
+    },
+    {
+      "title": "Linux Terminal Basics",
+      "url": "https://www.youtube.com/watch?v=ZtqBQ68cfJc"
+    }
+  ]
+}
